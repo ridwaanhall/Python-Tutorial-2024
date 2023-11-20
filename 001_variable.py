@@ -1,4 +1,7 @@
+print("Ridwan halim")
+
 # variable is a name that can be used to refer to a value
+
 
 first_name = "Ridwan"
 last_name = "Halim"
